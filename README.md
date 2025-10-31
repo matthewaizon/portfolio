@@ -1,3 +1,12 @@
+<h1>Portfolio</h1>
+
+<p>
+  This is my portfolio for show casing my previous works.
+
+  <em>Note this project is in progress.</em>
+</p>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
